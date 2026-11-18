@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional local inference. Downloads open model weights on first enabled analysis.
+sentence-transformers>=3,<6
